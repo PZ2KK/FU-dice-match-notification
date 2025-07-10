@@ -1,11 +1,11 @@
 
-# 🎲 Dice Match NOTIFICATION for Foundry VTT
+# Dice Match NOTIFICATION for Foundry VTT
 
 This Foundry VTT module adds a hook that triggers a custom chat message and sound effect when rolled a critical success or fumble.
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Go to **Foundry VTT > Add-on Modules > Install Module**
 2. Paste this **Manifest URL**:
@@ -20,23 +20,10 @@ https://github.com/PZ2KK/FU-dice-match-notification/releases/latest/download/mod
 
 ---
 
-## 🛠 Customization
+## Customization
 
 - To change the sounds:
   - Replace `critical.wav` and `fail.wav` in the `sounds/` folder with your own files
 - To edit message style or logic, modify `scripts/hook.js`
-
----
-
-## 🧱 Dependencies
-
-- ✅ Requires [Dice So Nice](https://foundryvtt.com/packages/dice-so-nice) to visually show dice
-
----
-
-## 📜 License
-
-MIT License  
-You are free to use, modify, and share this module.
 
 ---
