@@ -11,8 +11,8 @@
   "styles": [],
   "packs": [],
   "system": [],
-"manifest": "https://raw.githubusercontent.com/PZ2KK/FU-dice-match-notification/main/module.json",
-  "download": "https://github.com/PZ2KK/FU-dice-match-notification/archive/refs/heads/main.zip",
+"manifest": "https://github.com/PZ2KK/FU-dice-match-notification/releases/latest/download/module.json",
+  "download": "https://github.com/PZ2KK/FU-dice-match-notification/releases/latest/download/FU-dice-match-notification.zip",
   "url": "https://github.com/PZ2KK/FU-dice-match-notification",
   "license": "MIT"
 }
