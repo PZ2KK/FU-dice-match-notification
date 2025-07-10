@@ -3,16 +3,22 @@
   "title": "Fabula Ultima Dice Match Notification",
   "description": "Triggers a message and sound when all fumble or critical success",
   "version": "1.0.0",
-  "author": "PZ2KK",
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "12",
+  "authors": [
+    {
+      "name": "PZ2KK",
+      "url": "https://github.com/PZ2KK"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
   "scripts": ["scripts/hook.js"],
-  "esmodules": [],
-  "styles": [],
-  "packs": [],
-  "system": [],
-"manifest": "https://github.com/PZ2KK/FU-dice-match-notification/releases/latest/download/module.json",
+  "manifest": "https://raw.githubusercontent.com/PZ2KK/FU-dice-match-notification/main/module.json",
   "download": "https://github.com/PZ2KK/FU-dice-match-notification/releases/latest/download/FU-dice-match-notification.zip",
   "url": "https://github.com/PZ2KK/FU-dice-match-notification",
-  "license": "MIT"
+  "license": "MIT",
+  "relationships": {
+    "systems": []
+  }
 }
