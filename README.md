@@ -11,7 +11,8 @@ This Foundry VTT module adds a hook that triggers a custom chat message and soun
 2. Paste this **Manifest URL**:
 
 ```
-https://raw.githubusercontent.com/your-username/dice-match-hook/main/module.json
+[https://github.com/PZ2KK/FU-dice-match-notification/releases/latest/download/module.json]
+
 ```
 
 3. Enable the module in your world
